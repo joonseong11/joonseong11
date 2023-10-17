@@ -11,7 +11,7 @@
 
 ### Education
 - Pukyong National University, Electronic engineering (2013.03 ~ 2020.08) <br>
-- École 42 (Seoul campus) La Piscine (selection process at 42) (2021.09 ~ 2021.10) <br>
+- École 42 (Seoul campus) La Piscine (selection process at Ecole 42) (2021.09 ~ 2021.10) <br>
 - École 42 (Seoul campus) learner (common core) (2021.11 ~ 2023.09) <br>
 - École 42 (Seoul campus) member (advanced program) (2023.09 ~ current) <br>
 
