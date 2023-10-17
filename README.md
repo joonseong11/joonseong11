@@ -6,11 +6,12 @@
 공동으로 테스트할 새로운 가설을 찾고, 시도하고 실패하고, 이를 반복하며 프로젝트를 완료하고 동료에게 평가를 받습니다.
 42에서는 특정 기술을 배우는 것이 아닌, 배우는 방법을 배웁니다.
 
-또한 500여명 규모의 교내 커뮤니티 42peer 를 창립 및 운영하고 있습니다. (www.peer-study.co.kr) 동료학습 기반 스터디/프로젝트 커뮤니티입니다.
+또한 600여명 규모의 교내 커뮤니티 42peer 를 창립 및 운영하였습니다. (www.peer-study.co.kr) 
+동료학습 기반 스터디/프로젝트 커뮤니티이며, 현재 이를 위한 web service 개발을 진행하고 있습니다.
 
 ### Education
 - Pukyong National University, Electronic engineering (2013.03 ~ 2020.08) <br>
-- École 42 (Seoul campus) La Piscine(선발과정) (2021.09 ~ 2021.10) <br>
+- École 42 (Seoul campus) La Piscine (선발과정) (2021.09 ~ 2021.10) <br>
 - École 42 (Seoul campus) learner (공통과정) (2021.11 ~ 2023.09) <br>
 - École 42 (Seoul campus) member (고급과정) (2023.09 ~ 현재) <br>
 
