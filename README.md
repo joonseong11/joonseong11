@@ -9,10 +9,10 @@
 또한 500여명 규모의 교내 커뮤니티 42peer 를 창립 및 운영하고 있습니다. (www.peer-study.co.kr) 동료학습 기반 스터디/프로젝트 커뮤니티입니다.
 
 ### Education
-Pukyong National University, Electronic engineering (2013.03 ~ 2020.08) <br>
-42Seoul La Piscine (2021.09 ~ 2021.10)<br>
-42Seoul Learner (2021.11 ~ 2023.09)<br>
-42Seoul Member (2023.09 ~ )<br>
+(2013.03 ~ 2020.08) Pukyong National University, Electronic engineering <br>
+(2021.09 ~ 2021.10) 42Seoul La Piscine <br>
+(2021.11 ~ 2023.09) 42Seoul Learner <br>
+(2023.09 ~ 현재) 42Seoul Member <br>
 
 ### Columns
 [42 서울이란 무엇일까? 프랑스와 서울캠퍼스의 차이점, IT혁신교육, 부트캠프, 에콜 42의 위상, PBL, 동료학습](https://velog.io/@wjswnstjd11/%EC%B9%BC%EB%9F%BC-42-%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%ED%94%84%EB%9E%91%EC%8A%A4%EC%99%80-%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-IT%ED%98%81%EC%8B%A0%EA%B5%90%EC%9C%A1-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%97%90%EC%BD%9C-42%EC%9D%98-%EC%9C%84%EC%83%81-PBL-%EB%8F%99%EB%A3%8C%ED%95%99%EC%8A%B5)
