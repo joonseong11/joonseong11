@@ -24,6 +24,7 @@
 
 ### Activities
 - 42 peer 동아리 설립 및 1대 회장 (2022.07 ~ 2023.08)
+- 42 서울 동문들을 위한 컨퍼런스 파티 기획 및 운영 총괄 https://festa.io/events/3352
 
 ### Projects
 
