@@ -23,8 +23,8 @@
 [42 서울 본과정에서 동료학습을 어떻게 해야할까?, 이너서클은 어떻게 공부해야할까? PBL, 동료학습, CS, 동료평가(피어리뷰)](https://velog.io/@wjswnstjd11/%EC%B9%BC%EB%9F%BC-42-%EC%84%9C%EC%9A%B8-%EB%B3%B8%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EB%8F%99%EB%A3%8C%ED%95%99%EC%8A%B5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-%EC%9D%B4%EB%84%88%EC%84%9C%ED%81%B4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-PBL-%EB%8F%99%EB%A3%8C%ED%95%99%EC%8A%B5-CS-%EB%8F%99%EB%A3%8C%ED%8F%89%EA%B0%80%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0-ykk9kglf)
 
 ### Activities
-- 42 peer 동아리 설립 및 1대 회장 (2022.07 ~ 2023.08)
-- 42 서울 동문들을 위한 컨퍼런스 파티 기획 및 운영 총괄 https://festa.io/events/3352 (2023.03 ~ 2023.06)
+- 42 peer 동아리 설립 및 1대 회장 https://www.peer-study.co.kr (2022.07 ~ 2023.08)
+- 2023 Wasssup 42 컨퍼런스, 42 서울 동문들을 위한 컨퍼런스 파티 기획 및 운영 총괄 https://festa.io/events/3352 (2023.03 ~ 2023.06)
 
 ### Projects
 - ft_transcendence, 실시간 pingpong 게임 및 채팅 서비스 프로젝트 (2023.05 ~ 2023.09)
