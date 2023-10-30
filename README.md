@@ -40,7 +40,7 @@
 
 🗒️ Blog : https://velog.io/@wjswnstjd11
 
-👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/joonseong-jeon-363185237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
 
 <!--
 **joonseong11/joonseong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
