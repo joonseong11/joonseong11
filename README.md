@@ -38,6 +38,8 @@
 
 👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
 
+📜 이력서 : [전준성 이력서 v2.pdf](https://github.com/joonseong11/joonseong11/files/13611106/v2.pdf)
+
 <!--
 **joonseong11/joonseong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
