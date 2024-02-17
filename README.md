@@ -34,6 +34,7 @@
 ### Projects
 - ft_transcendence, 실시간 pingpong 게임 및 채팅 서비스 프로젝트, 팀 리더 및 프론트엔드 (2023.05 ~ 2023.09)
 - peer web service, 스터디/프로젝트 구인 및 협업 서비스, 팀 리더 및 프론트엔드 (2023.08 ~ current)
+- picl 웹 서비스, EFG사와 함께 진행한 외주 프로젝트. 교사와 학생들을 위한 혁신교육 플랫폼 (2024.02 ~ current)
 
 ### 💼 Skills 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
