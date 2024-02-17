@@ -28,7 +28,7 @@
 - 이노베이션 아카데미 학장상 (42peer) (2022.12)
 
 ### Activities
-- 42 peer 동아리 설립 및 1대 회장 https://www.peer-study.co.kr (2022.07 ~ 2023.08)
+- 42 peer 동아리 설립 및 1대 회장 [42 peer notion web site](https://peer-study.notion.site/42Peer-2249e7d6d4e845f5bcd602f9308be915?pvs=4) (2022.07 ~ 2023.08)
 - 2023 Wasssup 42 컨퍼런스, 42 서울 동문들을 위한 컨퍼런스 파티 기획 및 운영 총괄 https://festa.io/events/3352 (2023.03 ~ 2023.06)
 
 ### Projects
