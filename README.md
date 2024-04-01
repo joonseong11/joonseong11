@@ -24,6 +24,7 @@
 
 ### Honors and Awards
 - 국가 우수 장학생 (이공계) National Science & Technology Scholarship (2013.03)
+- 국제 스타트업 코딩 챌린지 2022, Siver Tier (2022.10)
 - 42 서울 우수 교육생 수상 (2022.12)
 - 이노베이션 아카데미 학장상 (42peer) (2022.12)
 
