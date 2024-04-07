@@ -1,9 +1,9 @@
 # 개발자 전준성 입니다 👋
 "소프트웨어로 세상을 바꾸는 개발자"의 비전을 갖고 École 42(seoul campus, computer science)에 재학 중 입니다. 
 
-수업, 교재, 교수가 없는 3무 교육인 42에서 프로젝트 기반학습, 동료학습을 바탕으로 성장하고 있습니다. 해결해야하는 문제를 정의하고, 동료들과 토론하고 협력하며, 서로의 관점과 아이디어를 공유합니다. 공동으로 테스트할 새로운 가설을 찾고, 시도하고 실패하고, 이를 반복하며 프로젝트를 완료하고 동료에게 평가를 받습니다. 42에서는 특정 기술을 배우는 것이 아닌, 배우는 방법을 배웁니다.
+**상위 5%** (300명 중 17등)의 성적으로 école 42 (42 서울, 이노베이션 아카데미)에 입학해 본격적으로 컴퓨터 공학을 공부하기 시작했습니다. C/C++를 사용해 라이브러리 패키지 개발, POSIX 쉘 개발, 레이 트레이싱 엔진 개발, I/O 멀티플렉싱 채팅 서버 개발 등 다양한 프로젝트를 진행하며 컴퓨터 과학에 대한 **심도 있는 지식을 프로젝트를 통해 직접 습득**했습니다.
 
-또한 소통능력과 조직운영능력을 겸비하고 있습니다. école 42 에서 어떻게 학습해야하는지에 대한 고찰로 부터 시작해 학습 커뮤니티 동아리 42peer를 설립하였고, 전교생 1600명중 약 40% 규모로 성장시켜낸 경험을 보유하고 있습니다. 그리고 개발자 네트워크의 필요성을 느껴, 300명 규모의 École 42 동문 개발자를 위한 컨퍼런스를 기획 및 총괄 운영하였습니다.
+혁신학교 école 42에서는 어떻게 효과적으로 학습할 수 있을까에 대한 고민을 시작으로, **전교생의 40%**가 참여하는 **학술동아리를 창립**했습니다. 이 동아리는 약 **220개 팀**과 **50회 이상의 교내 세미나**를 주최하며 학습 커뮤니티의 활성화에 기여했습니다. 이러한 노력으로 학장상을 수상하기도 했습니다. 더 나아가 개발자 커뮤니티를 구축하기 위해 대규모 컨퍼런스를 개최했으며, 이 행사는 약 **300명**이 참석한 가운데 **10개 기업**의 스폰서십을 받아 **약 800만 원 규모의 후원** 성과를 이뤘습니다.
 
 ### Columns
 - [42 서울이란 무엇일까? 프랑스와 서울캠퍼스의 차이점, IT혁신교육, 부트캠프, 에콜 42의 위상, PBL, 동료학습](https://velog.io/@wjswnstjd11/%EC%B9%BC%EB%9F%BC-42-%EC%84%9C%EC%9A%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%ED%94%84%EB%9E%91%EC%8A%A4%EC%99%80-%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-IT%ED%98%81%EC%8B%A0%EA%B5%90%EC%9C%A1-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%EC%97%90%EC%BD%9C-42%EC%9D%98-%EC%9C%84%EC%83%81-PBL-%EB%8F%99%EB%A3%8C%ED%95%99%EC%8A%B5)
@@ -38,10 +38,9 @@
 - picl 웹 서비스, EFG사와 함께 진행한 외주 프로젝트. 교사와 학생들을 위한 혁신교육 플랫폼 (2024.02 ~ current)
 
 ### 💼 Skills 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
   
 📞 Contact : jujeon42@gmail.com
 
