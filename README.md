@@ -44,7 +44,7 @@
 
 👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
 
-📜 이력서 : [공통 이력서 전준성.pdf](https://github.com/joonseong11/joonseong11/files/14897829/default.pdf)
+📜 이력서 : [(한영혼합) 공통 이력서 전준성.pdf](https://github.com/joonseong11/joonseong11/files/14897829/default.pdf)
 
 
 <!--
