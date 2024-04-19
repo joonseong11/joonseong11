@@ -13,11 +13,13 @@
 - École 42 (Seoul campus) member (advanced program) (2023.09 ~ current) <br>
 
 ### Work Experience
-- Internship (2020.07 ~ 2020.09)
+- Electrical Engineer Intern (2020.07 ~ 2020.09)
   - 한국전력공사 계통운영부
-- Internship (2021.04 ~ 2021.09)
+- Electrical Engineer Intern (2021.04 ~ 2021.09)
   - 한국수력원자력 계측제어부
-
+- Founder (2023.12 ~ current)
+  - peer, IT Out-Sourcing Service
+  
 ### Honors and Awards
 - 국가 우수 장학생 (이공계) National Science & Technology Scholarship (2013.03)
 - 국제 스타트업 코딩 챌린지 2022, Siver Tier, 42 BANGKOK KMITL (2022.10)
