@@ -6,6 +6,8 @@
 [![jujeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonseong11&hide=stars,contribs&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/joonseong11/github-readme-stats)
 
 [![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)](https://www.peer-connect.co.kr/members/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)
+[![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/898d0c76-e58e-4eb0-a621-96bc96862b0a)](https://www.peer-connect.co.kr/members/898d0c76-e58e-4eb0-a621-96bc96862b0a)
+
 
 📞 Contact : jujeon42@gmail.com
 
