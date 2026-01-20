@@ -12,6 +12,10 @@
 
 [![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)](https://www.peer-connect.co.kr/members/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)
 
+[![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/c8739882-2148-41d8-bfed-cbed70c3539d)](https://www.peer-connect.co.kr/members/c8739882-2148-41d8-bfed-cbed70c3539d)
+
+
+
 📞 Contact : jujeon42@gmail.com
 
 👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
