@@ -10,6 +10,8 @@
 [![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/a8962cab-2538-45e0-b5b9-52ecaf7a9c71)](https://www.peer-connect.co.kr/members/a8962cab-2538-45e0-b5b9-52ecaf7a9c71)
 [![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/26c98b6a-0463-4434-baac-59e89a605bf1)](https://www.peer-connect.co.kr/members/26c98b6a-0463-4434-baac-59e89a605bf1)
 
+[![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)](https://www.peer-connect.co.kr/members/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)
+
 📞 Contact : jujeon42@gmail.com
 
 👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
