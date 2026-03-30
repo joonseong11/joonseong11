@@ -9,7 +9,7 @@
 
 #### 📝 Writing
 
-- [Tech] 스타트업이 기술 부채를 갚는 타이밍: 핸디팟 자동배차 시스템 개발기 [(Post url)](https://jujeon42.medium.com/tech-스타트업이-기술-부채를-갚는-타이밍-핸디팟-자동배차-시스템-개발기-2cdd67d817c3)
+- [Tech] 스타트업이 기술 부채를 갚는 타이밍: 핸디팟 자동배차 시스템 개발기 [(Post url)]([https://jujeon42.medium.com/tech-스타트업이-기술-부채를-갚는-타이밍-핸디팟-자동배차-시스템-개발기-2cdd67d817c3](https://handybus.medium.com/tech-수기-운영에서-자동-배차-시스템까지-핸디팟-서비스-0-to-1-엔지니어링하기-dc0d1c07ab5d))
 
 - [TroubleShooting] Next.js 는 트랜스파일링을 해주는데 왜 빌드가 실패할까? [(Post url)](https://jujeon42.medium.com/troubleshooting-next-js-는-트랜스파일링을-해주는데-왜-빌드가-실패할까-808ce8ac794b)
 
