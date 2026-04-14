@@ -3,7 +3,7 @@
 > 지금은 초기 스타트업에서 0 to 1 으로 프로덕트를 만들고 있습니다.
 
 #### 💼 Career
-- 2024.10 ~ Current, [주식회사 스테이브(핸디버스)](about.handybus.co.kr), Software Engineer
+- 2024.10 ~ Current, [주식회사 스테이브(핸디버스)](https://about.handybus.co.kr), Software Engineer
 - 2024.02 ~ 2024.08, Free Lancer, 5천만원 규모 프로젝트 수주 및 4인 개발팀 리드
 - 2021.11 ~ 2023.10, [42 서울(École 42 Seoul)](https://42seoul.kr/), 5기
 
