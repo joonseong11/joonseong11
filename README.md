@@ -9,9 +9,9 @@
 
 #### 📝 Writing
 
-- [Tech] 스타트업이 기술 부채를 갚는 타이밍: 핸디팟 자동배차 시스템 개발기 [(Post url)](https://jujeon42.medium.com/tech-스타트업이-기술-부채를-갚는-타이밍-핸디팟-자동배차-시스템-개발기-2cdd67d817c3](https://handybus.medium.com/tech-수기-운영에서-자동-배차-시스템까지-핸디팟-서비스-0-to-1-엔지니어링하기-dc0d1c07ab5d))
+- [Tech] 스타트업이 기술 부채를 갚는 타이밍: 핸디팟 자동배차 시스템 개발기 [(Post url)](https://handybus.medium.com/tech-%EC%88%98%EA%B8%B0-%EC%9A%B4%EC%98%81%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B0%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B9%8C%EC%A7%80-%ED%95%B8%EB%94%94%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-0-to-1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%ED%95%98%EA%B8%B0-dc0d1c07ab5d)
 
-- [TroubleShooting] Next.js 는 트랜스파일링을 해주는데 왜 빌드가 실패할까? [(Post url)](https://jujeon42.medium.com/troubleshooting-next-js-는-트랜스파일링을-해주는데-왜-빌드가-실패할까-808ce8ac794b)
+- [TroubleShooting] Next.js 는 트랜스파일링을 해주는데 왜 빌드가 실패할까? [(Post url)](https://jujeon42.medium.com/react-native-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-e8423859672d)
 
 
 📞 Contact : jujeon42@gmail.com
