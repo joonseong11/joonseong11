@@ -18,8 +18,11 @@
 
 👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
 
+---
+
 신뢰할 수 있는 개발자 네트워크 피어커넥트에 가입하세요! 
-추천코드로 가입하기 👉🏻 [https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB](https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB) 
+
+👉🏻 추천코드로 가입하기  [https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB](https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB) 
 
 [![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)](https://www.peer-connect.co.kr/members/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)
 </div>
