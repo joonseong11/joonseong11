@@ -1,9 +1,11 @@
 # Junseong Jeon
-### I’m a software engineer
+### Software engineer & ex-founder — I build things from zero to one.
 
-While I was studying at **École 42**, I started an IT agency. We landed a **$37K** project almost immediately after launching and delivered it successfully.
+**Founded an IT agenc**y while studying at **École 42** — closed a **$37K** contract right after launch and delivered it end-to-end.
 
-I later joined an early-stage startup(Stave Co., Ltd.), where I built Handybus from 0 to 1, growing it to **60,000 registered users** and **100,000 MAU**. The product generated around **$500K** in revenue within six months, including **$200K** in a single month.
+**Joined early-stage startup Stave as the frontend lead and Built Handybus from 0 to 1** — grew it to **60,000 registered users** and **100,000 MAU**, generating **$500K in revenue within six months**, including **$200K in a single month.**
+
+**Founded an alumni conference for the global École 42 community from scratch, hosted in Seoul** — personally recruited every speaker, sponsor, and the venue, securing **sponsorships from 10 companies** and selling **300 paid tickets**, while leading a **20-person staff** across four teams. 
 
 #### 📝 Articles
 
