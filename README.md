@@ -1,32 +1,27 @@
-### Introduce
-> 스타크래프트 유즈맵 메이커로 10년 동안 활동했습니다. 그리곤 다시 돌고 돌아 소프트웨어 엔지니어라는 메이커로 일하고 있습니다.
-> 지금은 초기 스타트업에서 0 to 1 으로 프로덕트를 만들고 있습니다.
+I’m Junseong Jeon, a software engineer focused on frontend. 
 
-#### 💼 Career
-- 2024.10 ~ Current, [주식회사 스테이브(핸디버스)](https://about.handybus.co.kr), Software Engineer
-- 2024.02 ~ 2024.08, Free Lancer, 5천만원 규모 프로젝트 수주 및 4인 개발팀 리드
-- 2021.11 ~ 2023.10, [42 서울(École 42 Seoul)](https://42seoul.kr/), 5기
+I founded an IT agency while studying at École 42. Right after launching it, I secured and delivered a ₩50M contract. 
+
+I later joined an early-stage startup, where I built Handybus from 0 to 1, growing it to 60,000 registered users and 100,000 MAU.
 
 #### 📝 Writing
 
-- [Tech] 스타트업이 기술 부채를 갚는 타이밍: 핸디팟 자동배차 시스템 개발기 [(Post url)](https://handybus.medium.com/tech-%EC%88%98%EA%B8%B0-%EC%9A%B4%EC%98%81%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B0%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B9%8C%EC%A7%80-%ED%95%B8%EB%94%94%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-0-to-1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%ED%95%98%EA%B8%B0-dc0d1c07ab5d)
+- When a Startup Should Pay Down Its Tech Debt: Building HandyPot's Automated Dispatch System [(Post url)](https://handybus.medium.com/tech-%EC%88%98%EA%B8%B0-%EC%9A%B4%EC%98%81%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B0%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B9%8C%EC%A7%80-%ED%95%B8%EB%94%94%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-0-to-1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%ED%95%98%EA%B8%B0-dc0d1c07ab5d)
 
-- [TroubleShooting] WebView navigation과 Page Lifecycle 사이의 race condition 해결하기 [(Post url)](https://jujeon42.medium.com/troubleshooting-webview-navigation과-document-lifecycle-사이의-race-condition-해결하기-605f94dfab8d)
+- Resolving the Race Condition Between WebView Navigation and the Page Lifecycle [(Post url)](https://jujeon42.medium.com/troubleshooting-webview-navigation과-document-lifecycle-사이의-race-condition-해결하기-605f94dfab8d)
 
-- [TroubleShooting] Next.js 는 트랜스파일링을 해주는데 왜 빌드가 실패할까? [(Post url)](https://jujeon42.medium.com/react-native-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-e8423859672d)
+### Recommendations
 
+#### Boram Lee - Product Designer, co-worker at stave Ltd.
 
+Junseong is a thoughtful engineer who always looks for better ways to improve our product. When working with designers, he understands their vision and shares his technical expertise to solve problems together. He plays a key role as a bridge between Backend, Frontend, and Design, making our collaboration much more efficient. Also, he enjoys sharing new knowledge and helps the entire team grow together. Having Junseong on our team is a great strength, and I truly enjoy working with him.
 
-📞 Contact : jujeon42@gmail.com
+#### Geonwoo Lim - Software Engineer, co-worker at stave Ltd.
 
-👋 LinkedIn : [jujeon's LinkedIn](https://www.linkedin.com/in/jujeon42)
+He is the kind of colleague who consistently inspires those around him to explore new ideas and take on exciting challenges together. He brings forward emerging technologies with genuine enthusiasm and a proactive mindset, always eager to experiment and turn ideas into practical outcomes. Beyond his technical capabilities, he also demonstrates a strong understanding of business strategy and contributes meaningfully to the company’s growth and direction. I am continually impressed by his versatility, initiative, and well-rounded perspective as a professional.
 
----
+#### Sangmin Lee - CSO of HireReady, fellow student at École 42
+He's great at turning ideas into reality. He has a strong sense of what it takes to build an idea all the way into a real service - assembling the right team, shaping the product's direction, and prioritizing the core features. Even the wildest, most far-fetched idea could become real with a teammate like him!
 
-신뢰할 수 있는 개발자 네트워크 피어커넥트에 가입하세요! 
-
-👉🏻 추천코드로 가입하기  [https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB](https://www.peer-connect.co.kr/invite?code=BF9BB1D3FB) 
-
-[![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)](https://www.peer-connect.co.kr/members/bdc0dc9b-b44b-4683-bdb8-839cbf988ace)
-</div>
-
+#### Jisoo Kim - Software Engineer, fellow student at École 42
+I felt that he has outstanding planning, execution, and communication skills. I was especially inspired by the way he persuades and leads the team.
