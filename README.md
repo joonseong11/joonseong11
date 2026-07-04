@@ -1,7 +1,7 @@
 # Junseong Jeon
 ### I’m a software engineer focused on Frontend.
 
-I **founded an IT agency** while studying at **École 42**. Right after launching it, I secured and delivered a **$37K** contract. 
+While I was studying at **École 42**, I started an IT agency. We landed a **$37K** project almost immediately after launching and delivered it successfully.
 
 I later joined an early-stage startup(Stave Co., Ltd.), where I built Handybus from 0 to 1, growing it to **60,000 registered users** and **100,000 MAU**. The product generated around **$500K** in revenue within six months, including **$200K** in a single month.
 
