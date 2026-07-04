@@ -7,9 +7,9 @@ I later joined an early-stage startup(Stave Co., Ltd.), where I built Handybus f
 
 #### 📝 Articles
 
-- When a Startup Should Pay Down Its Tech Debt: Building HandyPot's Automated Dispatch System [(Post url)](https://handybus.medium.com/tech-%EC%88%98%EA%B8%B0-%EC%9A%B4%EC%98%81%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99-%EB%B0%B0%EC%B0%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B9%8C%EC%A7%80-%ED%95%B8%EB%94%94%ED%8C%9F-%EC%84%9C%EB%B9%84%EC%8A%A4-0-to-1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%ED%95%98%EA%B8%B0-dc0d1c07ab5d)
+- When a Startup Should Pay Down Its Tech Debt: Building HandyParty's Automated Dispatch System [(Post url)](https://medium.com/@jujeon42/tech-when-should-a-startup-pay-down-its-technical-debt-6b43b41304b5?sharedUserId=jujeon42)
 
-- Resolving the Race Condition Between WebView Navigation and the Page Lifecycle [(Post url)](https://jujeon42.medium.com/troubleshooting-webview-navigation과-document-lifecycle-사이의-race-condition-해결하기-605f94dfab8d)
+- Resolving the Race Condition Between WebView Navigation and the Page Lifecycle [(Post url)](https://medium.com/@jujeon42/tech-resolving-a-race-condition-between-webview-navigation-and-page-lifecycle-transition-d02436763353?sharedUserId=jujeon42)
 
 ### 👍 Recommendations
 
