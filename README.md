@@ -3,7 +3,7 @@
 
 **Founded an IT agenc**y while studying at **École 42** — closed a **$37K** contract right after launch and delivered it end-to-end.
 
-Joined early-stage startup Stave as the frontend lead and Built Handybus from 0 to 1 — grew it to **60K registered users** and **100K MAU**, generating **$500K in revenue within six months**, including **$200K in a single month.**
+Joined early-stage startup Stave as the frontend lead and Built Handybus from 0 to 1 — grew it to **60K registered users** and **100K MAU**, generating **$500K in revenue**, including **$200K in a single month.**
 
 **Founded an alumni conference for the global École 42 community from scratch, hosted in Seoul** — personally recruited every speaker, sponsor, and the venue, securing **sponsorships from 10 companies** and selling **300 paid tickets**, while leading a **20-person staff** across four teams. 
 
