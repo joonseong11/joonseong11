@@ -1,5 +1,5 @@
 # Junseong Jeon
-### I’m a software engineer focused on Frontend.
+### I’m a software engineer
 
 While I was studying at **École 42**, I started an IT agency. We landed a **$37K** project almost immediately after launching and delivered it successfully.
 
