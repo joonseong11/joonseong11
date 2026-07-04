@@ -10,7 +10,7 @@ I later joined an early-stage startup, where I built Handybus from 0 to 1, growi
 
 - Resolving the Race Condition Between WebView Navigation and the Page Lifecycle [(Post url)](https://jujeon42.medium.com/troubleshooting-webview-navigation과-document-lifecycle-사이의-race-condition-해결하기-605f94dfab8d)
 
-### Recommendations
+### 👍 Recommendations
 
 #### Boram Lee - Product Designer, co-worker at stave Ltd.
 
