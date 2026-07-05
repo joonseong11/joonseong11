@@ -15,18 +15,18 @@ Joined early-stage startup STAVE as fronted lead and built Handybus from 0 to 1,
 
 #### 👍 Recommendations
 
-##### Boram Lee - Product Designer, co-worker at Stave
+##### [Boram Lee - Product Designer, co-worker at Stave](https://www.linkedin.com/in/boramlee625/)
 
 Junseong is a thoughtful engineer who always looks for better ways to improve our product. When working with designers, he understands their vision and shares his technical expertise to solve problems together. He plays a key role as a bridge between Backend, Frontend, and Design, making our collaboration much more efficient. Also, he enjoys sharing new knowledge and helps the entire team grow together. Having Junseong on our team is a great strength, and I truly enjoy working with him.
 
-##### Geonwoo Lim - Software Engineer, co-worker at Stave
+##### [Geonwoo Lim - Software Engineer, co-worker at Stave](https://www.linkedin.com/in/건우-임-a994972a3/)
 
 He is the kind of colleague who consistently inspires those around him to explore new ideas and take on exciting challenges together. He brings forward emerging technologies with genuine enthusiasm and a proactive mindset, always eager to experiment and turn ideas into practical outcomes. Beyond his technical capabilities, he also demonstrates a strong understanding of business strategy and contributes meaningfully to the company’s growth and direction. I am continually impressed by his versatility, initiative, and well-rounded perspective as a professional.
 
-##### Sangmin Lee - CSO of HireReady, fellow student at École 42
+##### [Sangmin Lee - CSO of HireReady, fellow student at École 42](https://www.linkedin.com/in/sangmin-lee-3b2564342/)
 He's great at turning ideas into reality. He has a strong sense of what it takes to build an idea all the way into a real service - assembling the right team, shaping the product's direction, and prioritizing the core features. Even the wildest, most far-fetched idea could become real with a teammate like him!
 
-##### Jisoo Kim - Software Engineer, fellow student at École 42
+##### [Jisoo Kim - Software Engineer, fellow student at École 42](https://www.linkedin.com/in/jisookimuxui/)
 I felt that he has outstanding planning, execution, and communication skills. I was especially inspired by the way he persuades and leads the team.
 
 
