@@ -3,7 +3,7 @@
 
 **Founded an software development agency** while studying at **École 42** — closed a **$37K** contract right after launch and delivered it end-to-end.
 
-Joined early-stage startup Stave as the frontend lead and Built Handybus from 0 to 1 — grew it to **60K registered users** and **100K MAU**, generating **$500K in revenue**, including **$200K in a single month.**
+Joined early-stage startup STAVE as fronted lead and built Handybus from 0 to 1, growing it to **60K** registered usersand **100K MAU**. The product drove **270K** in revenue within 6 months of launch - including **$200K** in a single month.
 
 **Founded an alumni conference for the global École 42 community from scratch, hosted in Seoul** — personally recruited every speaker, sponsor, and the venue, securing **sponsorships from 10 companies** and selling **300 paid tickets**, while leading a **20-person staff** across four teams. 
 
@@ -36,7 +36,7 @@ I felt that he has outstanding planning, execution, and communication skills. I 
 # 전준성 (Junseong Jeon)
 ### Software Engineer & ex-founder
 
-**École 42 재학 중 IT 에이전시를 창업**했습니다. **5,000만 원 규모의 계약 수주** 및 납품 후 초기 스타트업(Stave)에 프론트엔드 리드로 합류해 **핸디버스를 0 to 1로 만들었습니다** — 이후 **가입자 6만 명, MAU 10만 명**으로 성장시켰고, 한 달 만에 3억원, 누적 **약 8억 원** 이상의 매출을 달성습니다.
+**École 42 재학 중 IT 에이전시를 창업**했습니다. **5,000만 원 규모의 계약 수주** 및 납품 후 초기 스타트업(Stave)에 프론트엔드 리드로 합류해 **핸디버스를 0 to 1로 만들었습니다** — 이후 **가입자 6만 명, MAU 10만 명**으로 성장시켰고, 출시 6개월 만에 매출 4억원 달성했습니다. (한 달 최고 매출 3억원)
 
 **École 42 네트워크를 위한 알럼나이 컨퍼런스(서울)를 주최했습니다.** — 모든 연사, 스폰서, 행사장을 직접 섭외하여 **10개 기업의 후원**을 유치하고 **유료 티켓 300장**을 판매했으며, 4개 팀 **20명의 스태프**를 이끌었습니다.
 
